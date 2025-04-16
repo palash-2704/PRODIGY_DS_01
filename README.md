@@ -5,10 +5,9 @@
 
 
 Dataset
-The dataset utilized for this analysis is the ![image](https://github.com/user-attachments/assets/5d70634b-61e8-4c88-96f4-38c93a803bd6)
-, which contains population records spanning from 2001 to 2022.
+The dataset utilized for this analysis is the , which contains population records spanning from 2001 to 2022.
 
-Tools and Libraries Used
+Tools and Libraries Used:
 
 Jupyter Notebook
 
@@ -25,7 +24,7 @@ Data Cleaning: Identified and addressed any missing values, duplicate entries, a
 
 Visualization: Used bar charts and stacked charts to represent the distribution of both categorical and continuous variables effectively.
 
-Conclusion
+Conclusion:
 To summarize, the EDA offered meaningful insights into how the selected variables are distributed within the dataset. These findings serve as a solid starting point for deeper analysis and modeling in the data science pipeline.
 
 Thank you for taking the time to review my work!
