@@ -1,5 +1,4 @@
-# PRODIGY_DS_01
-![image](https://github.com/user-attachments/assets/68db63b0-d5f5-4582-9b59-f1a3587a8607)
+
 
 
 
